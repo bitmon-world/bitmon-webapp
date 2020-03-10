@@ -1,2 +1,3 @@
-# bitmon-webapp
-Bitmon webapp to interact with bitmon games and contracts.
+# Bitmon WebApp
+> The main Bitmon app to interact with Bitmon Games and Contracts.
+
